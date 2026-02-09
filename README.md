@@ -65,6 +65,7 @@ All category rules are stored locally in a JSON file.
 ├── categories.json        # Persistent category-keyword mapping
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
 
 https://github.com/user-attachments/assets/5a97da02-6abe-4c6e-83c3-f524f160675a
 
